@@ -1,0 +1,20 @@
+.awful-clever_page_awflclvr-css-date-time .nav-tab-wrapper {
+	margin-top: 10px;
+}
+
+.awful-clever_page_awflclvr-css-date-time .notice {
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.awflclvr-instructions {
+	margin: 15px 20px 15px 5px; 
+	padding: 10px 20px 40px; 
+	background: #fff;
+}
+
+@media (min-width: 768px) {
+	.awflclvr-instructions {
+		padding-right: 20%; 
+	}
+}
